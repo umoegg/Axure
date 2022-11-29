@@ -12,6 +12,8 @@
 }
 .box_1 {
 }
+.ellipse {
+}
 .image {
 }
 .heading_1 {
@@ -63,6 +65,14 @@
   text-align:left;
 }
 .line {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
 }
 .form_hint {
   color:#999999;
