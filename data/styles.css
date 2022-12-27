@@ -88,4 +88,14 @@
 }
 .connector {
 }
+.sticky_1 {
+  text-align:left;
+}
+.placeholder {
+}
+.button {
+}
+.checkbox {
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
